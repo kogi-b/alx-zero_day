@@ -1,2 +1,2 @@
 ## Hello world
-Random markdown text here.
+This is the beginning of the ALX Software Engineering scholarship course
